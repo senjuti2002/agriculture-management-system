@@ -1,0 +1,12 @@
+Income: 50000
+Expense: 30000
+Income: 5000
+Expense: 4000
+Income: 200000
+Expense: 40000
+Income: 3000
+Expense: 675
+Income: 20000
+Expense: 1000
+Income: 1000
+Expense: 400
